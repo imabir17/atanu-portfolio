@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# portfolio folder — only allow images
+public/portfolio/**/*.html
+public/portfolio/**/*.htm
+public/portfolio/**/*.mp4
+public/portfolio/**/*.mov
+public/portfolio/**/*.avi
