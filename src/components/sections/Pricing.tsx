@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const packages = [
   {
     name: "Photography Only",
-    price: "From $3,500",
+    price: "From ৳8,000",
     features: [
       "8 Hours Full Coverage",
       "Second Photographer",
@@ -16,7 +16,7 @@ const packages = [
   },
   {
     name: "The Hybrid Story (Photo & Video)",
-    price: "From $6,500",
+    price: "From ৳13,000",
     features: [
       "10 Hours Full Coverage",
       "Dedicated Videography Team",
