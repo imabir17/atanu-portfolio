@@ -1,0 +1,42 @@
+[
+  {
+    "id": "project-1",
+    "title": "Monir x Maliha Editorial",
+    "category": "Weddings",
+    "coverImage": "https://www.behance.net/gallery/240976263/Monir-x-Maliha/modules/1388629535",
+    "aspect": "aspect-[4/5]",
+    "isVideo": false,
+    "galleryImages": [
+      "https://www.behance.net/gallery/240976263/Monir-x-Maliha/modules/1388629543",
+      "https://www.behance.net/gallery/240976263/Monir-x-Maliha/modules/1388629523",
+      "https://www.behance.net/gallery/240976263/Monir-x-Maliha/modules/1388629517",
+      "https://www.behance.net/gallery/240976263/Monir-x-Maliha/modules/1388629515"
+    ]
+  },
+
+
+  
+  {
+    "id": "project-2",
+    "title": "The Artisan Short Film",
+    "category": "Films",
+    "coverImage": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=800&q=80",
+    "aspect": "aspect-[16/9]",
+    "isVideo": true,
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=1200&q=80"
+    ]
+  },
+  {
+    "id": "project-3",
+    "title": "Desert Shadows Collection",
+    "category": "Editorial",
+    "coverImage": "https://images.unsplash.com/photo-1509631179647-0c9201503a55?auto=format&fit=crop&w=800&q=80",
+    "aspect": "aspect-[3/4]",
+    "isVideo": false,
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1509631179647-0c9201503a55?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80"
+    ]
+  }
+]
