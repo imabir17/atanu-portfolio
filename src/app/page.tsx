@@ -3,7 +3,6 @@ import { Loader } from "@/components/Loader";
 import { Hero } from "@/components/sections/Hero";
 import { About } from "@/components/sections/About";
 import { Portfolio } from "@/components/sections/Portfolio";
-import { BeforeAfter } from "@/components/sections/BeforeAfter";
 import { Pricing } from "@/components/sections/Pricing";
 import { Contact } from "@/components/sections/Contact";
 import { Footer } from "@/components/Footer";
@@ -22,7 +21,6 @@ export default async function Home() {
       <div className="relative z-10 bg-background">
         <About />
         <Portfolio externalProjects={finalProjects} />
-        <BeforeAfter />
         <Pricing />
         <Contact />
       </div>

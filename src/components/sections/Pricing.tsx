@@ -16,7 +16,7 @@ const packages = [
   },
   {
     name: "The Hybrid Story (Photo & Video)",
-    price: "From ৳13,000",
+    price: "From ৳20,000",
     features: [
       "10 Hours Full Coverage",
       "Dedicated Videography Team",
@@ -25,17 +25,6 @@ const packages = [
       "Drone Aerial Footage"
     ],
     featured: true
-  },
-  {
-    name: "Commercial Film & Photo",
-    price: "Custom",
-    features: [
-      "Half or Full Day Hybrid Rate",
-      "Creative Direction & Storyboarding",
-      "Advanced 4K/6K Video Delivery",
-      "Commercial Usage Rights",
-      "Professional Audio & Lighting"
-    ]
   }
 ];
 
@@ -55,7 +44,7 @@ export function Pricing() {
         </p>
       </motion.div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {packages.map((pkg, i) => (
           <motion.div
             key={pkg.name}

@@ -11,11 +11,7 @@ export function Footer() {
         >
           hello@atanusengupta.com
         </a>
-        <div className="flex gap-8 text-xs uppercase tracking-[0.2em] text-foreground/60">
-          <a href="https://www.facebook.com/share/1Dsdfb8GXM/" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Facebook</a>
-          <a href="https://www.instagram.com/films.by_atanu_?igsh=am0waDgycmp3NGoy" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Instagram</a>
-          <a href="https://www.behance.net/atanusengupta4" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Behance</a>
-        </div>
+
         <p className="mt-16 text-xs text-foreground/30 font-inter tracking-wider">
           © {new Date().getFullYear()} ATANU SENGUPTA. ALL RIGHTS RESERVED.
         </p>
