@@ -38,13 +38,10 @@ export function About() {
 
           <div className="mt-12 pt-12 border-t border-white/10">
             <h3 className="font-inter text-xs uppercase tracking-[0.2em] mb-4 text-accent">My Gear</h3>
-            <ul className="grid grid-cols-2 gap-y-3 font-inter text-sm text-foreground/60 tracking-wider">
-              <li>Sony FX3 Cinema Camera</li>
-              <li>Sony A7R V</li>
-              <li>Sony 35mm f/1.4 GM</li>
-              <li>DJI RS 3 Pro Gimbal</li>
-              <li>Sony 85mm f/1.4 GM</li>
-              <li>Atomos Ninja V</li>
+            <ul className="grid grid-cols-1 sm:grid-cols-2 gap-y-3 font-inter text-sm text-foreground/60 tracking-wider">
+              <li>Sony a7cii</li>
+              <li>Sigma 35 mm 1.4 DG DN</li>
+              <li>Sigma 85 mm 1.4 DG DN</li>
             </ul>
           </div>
         </motion.div>
